@@ -1,0 +1,4 @@
+<resources>
+    <style name="Theme.Lap" parent="@android:style/Theme.Material.NoActionBar">
+    </style>
+</resources>

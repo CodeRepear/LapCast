@@ -1,0 +1,55 @@
+# Built application binaries
+*.apk
+*.aab
+*.ap_
+
+# Android / Gradle
+*.iml
+.gradle/
+**/.gradle/
+local.properties
+**/local.properties
+.idea/
+**/.idea/
+.DS_Store
+build/
+**/build/
+captures/
+.externalNativeBuild
+.cxx
+
+# Python
+__pycache__/
+**/*__pycache__*
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.env
+.venv
+ENV/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# OS & Editor
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.vscode/
+*.swp
+*~
